@@ -29,6 +29,7 @@ public class HomeController {
 		
 		System.out.println("Hellow git");
 		System.out.println("I am master");
+		System.out.println("I am hotfix");
 		return "home";
 	}
 	
