@@ -32,6 +32,8 @@ public class HomeController {
 		System.out.println("I am hotfix");
 		System.out.println("Add java class file push");
 		System.out.println("World with Git");
+		System.out.println("World with java");
+		System.out.println("World for Pull 	");
 		return "home";
 	}
 	
