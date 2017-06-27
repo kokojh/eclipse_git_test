@@ -28,7 +28,7 @@ public class HomeController {
 		model.addAttribute("serverTime", formattedDate );
 		
 		System.out.println("Hellow git");
-		
+		System.out.println("I am hotfix");
 		return "home";
 	}
 	
